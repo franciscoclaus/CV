@@ -1,0 +1,19 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+#banner{
+    background-color: rgb(216, 215, 215) ;
+}
+
+.datos{
+    margin-top:20px;
+    margin-left:1%;
+    margin-right:10% ;
+}
+
+.imagen{
+    width:40%;
+}
